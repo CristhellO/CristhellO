@@ -1,4 +1,4 @@
-/*OPERADORES COMPARACION 
+git /*OPERADORES COMPARACION 
 
 Mayor que >: Compara dos valores y devuelve true si el primero es mayor que el segundo. Compara tanto números como cadenas.
 Menor que <: Compara dos valores y devuelve true si el primero es mayor que el segundo. Compara tanto números como cadenas.
